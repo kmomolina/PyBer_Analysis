@@ -33,4 +33,4 @@ As we can see, the urban city type is by far the busiest area of all the city ty
 
 ![total fare line chart](Analysis/PyBer_fare_summary.png)
 
-What we can determine by this line chart is that the more fares are also made in the urban area. The total fares are nearly double from suburban areas, and nearly four times as much as rural areas! Based on this information, we can feel safe to add more resources to the urban city type. Urban cities are providing the most fares, the more rides, and have the most drivers. 
+What we can determine by this line chart is that the most fares are also made in the urban area. The total fares are nearly double from suburban areas, and nearly four times as much as rural areas! Based on this information, we can feel safe to add more resources to the urban city type. Urban cities are providing the most fares, the more rides, and have the most drivers. 
